@@ -24,7 +24,7 @@ const AboutSection = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="public/images/vinayaka.jpg"
+                src="/images/vinayaka.jpg"
                 alt="Lord Vinayaka"
                 className="w-full h-[500px] object-cover rounded-2xl shadow-2xl"
               />
