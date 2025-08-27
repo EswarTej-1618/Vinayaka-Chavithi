@@ -114,6 +114,24 @@ const Sponsors = () => {
       icon: Star,
       certificate: "yaswanth-reddy.pdf",
     },
+    {
+      id: 13,
+      name: "Dhavala Sowbhagya",
+      image: "/images/sponsors.jpeg",
+      description:
+        "May Ganesh bless every friend who stands by us with joy and unity.",
+      icon: Star,
+      certificate: "dhavala-sowbhagya.pdf",
+    },
+    {
+      id: 14,
+      name: "Tammisetti Sai Manikanta",
+      image: "/images/sponsors.jpeg",
+      description:
+        "May Ganesh bless every friend who stands by us with joy and unity.",
+      icon: Star,
+      certificate: "tammisetti-sai-manikanta.pdf",
+    },
   ];
 
   const SponsorCard = ({ sponsor, isPlatinum = false, isGold = false }) => {
