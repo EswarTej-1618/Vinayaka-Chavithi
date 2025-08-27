@@ -9,7 +9,7 @@ const Sponsors = () => {
     {
       id: 1,
       name: 'Sai Teja',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'sai-teja.pdf', 
@@ -17,7 +17,7 @@ const Sponsors = () => {
     {
       id: 2,
       name: 'Sai Chaitanya',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'sai-chaitanya.pdf',
@@ -25,7 +25,7 @@ const Sponsors = () => {
     {
       id: 3,
       name: 'Harishchandra Prasad',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'harishchandra-prasad.pdf',
@@ -33,7 +33,7 @@ const Sponsors = () => {
     {
       id: 4,
       name: 'Dhareneeswar Reddy',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'dhareneeswar-reddy.pdf',
@@ -41,7 +41,7 @@ const Sponsors = () => {
     {
       id: 5,
       name: 'Saharsha Raghuvardhan',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'saharsha-raghuvardhan.pdf',
@@ -49,7 +49,7 @@ const Sponsors = () => {
     {
       id: 6,
       name: 'K.M.S Manikanta',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'kms-manikanta.pdf',
@@ -57,7 +57,7 @@ const Sponsors = () => {
     {
       id: 7,
       name: 'Jagadeesh',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'jagadeesh.pdf',
@@ -65,7 +65,7 @@ const Sponsors = () => {
     {
       id: 8,
       name: 'Balavardhan',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'balavardhan.pdf',
@@ -73,7 +73,7 @@ const Sponsors = () => {
     {
       id: 9,
       name: 'Madhu',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'madhu.pdf',
@@ -81,7 +81,7 @@ const Sponsors = () => {
     {
       id: 10,
       name: 'Leela Manohar',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'leela-manohar.pdf',
@@ -89,7 +89,7 @@ const Sponsors = () => {
     {
       id: 11,
       name: 'Gagan',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'gagan.pdf',
@@ -97,7 +97,7 @@ const Sponsors = () => {
     {
       id: 12,
       name: 'Yaswanth Reddy',
-      image: 'assets/images/sponsors.jpeg',
+      image: 'public/images/sponsors.jpeg',
       description: 'May Ganesh bless every friend who stands by us with joy and unity.',
       icon: Star,
       certificate: 'yaswanth-reddy.pdf',

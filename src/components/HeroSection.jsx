@@ -31,7 +31,7 @@ const HeroSection = () => {
             
             <div className="w-40 h-40 p-2 mx-auto rounded-full sm:w-40 sm:h-40 md:w-48 md:h-48 bg-gradient-to-br from-orange-400 to-red-500 animate-pulse-slow">
               <img
-                src="assets/images/logo.jpg"
+                src="public/images/logo.jpg"
                 alt="Lord Vinayaka"
                 className="object-cover w-full h-full border-2 rounded-full border-white/30 "
               />
