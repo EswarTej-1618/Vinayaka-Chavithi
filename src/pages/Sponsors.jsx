@@ -132,6 +132,15 @@ const Sponsors = () => {
       icon: Star,
       certificate: "tammisetti-sai-manikanta.pdf",
     },
+    {
+      id: 14,
+      name: "T.Nichala Anurud Reddy",
+      image: "/images/sponsors.jpeg",
+      description:
+        "May Ganesh bless every friend who stands by us with joy and unity.",
+      icon: Star,
+      certificate: "anurud-reddy.pdf",
+    },
   ];
 
   const SponsorCard = ({ sponsor, isPlatinum = false, isGold = false }) => {
